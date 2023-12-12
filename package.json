@@ -1,0 +1,25 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "```sh\r npm init -y\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marbas666/nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marbas666/nft/issues"
+  },
+  "homepage": "https://github.com/marbas666/nft#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.19.2"
+  }
+}
